@@ -1,0 +1,168 @@
+# Copyright (C) 2023 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Before After Image Comparison - Block 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/before-after-image-compare\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-19T06:43:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: image-compare\n"
+
+#. Plugin Name of the plugin
+msgid "Before After Image Comparison - Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Compare and filter between two images"
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6303
+msgid "Before Img"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6304
+msgid "After Img"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6329
+msgid "Comparison Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6330
+msgid "Width:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6332
+msgid "Border:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6336
+#: dist/editor.js:6342
+msgid "Enter Image URL"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6348
+msgid "Swap Images"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6352
+msgid "Labels Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6353
+msgid "Show Labels"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6360
+#: dist/editor.js:6373
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6365
+msgid "Caption Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6366
+msgid "Show Caption"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6380
+msgid "Edit Before Image:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6381
+msgid "Edit After Image:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6384
+msgid "Image Comparison in left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6385
+msgid "Image Comparison in center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6386
+msgid "Image Comparison in right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6692
+msgid "After image label"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6697
+msgid "Before image label"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6711
+msgid " Before Image:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6720
+msgid " After Image:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:6725
+msgid "Caption of the image compare"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Image Compare"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Compare and filter between two images."
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "image slider"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "image compare"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "image filter"
+msgstr ""
